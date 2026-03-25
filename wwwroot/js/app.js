@@ -3,7 +3,7 @@ var MATERIAL_TYPES = [
     { id: 1, name: 'Основа (бумага)', defect_percent: 5 },
     { id: 2, name: 'Основа (флизелин)', defect_percent: 3 },
     { id: 3, name: 'Покрытие (виниловое)', defect_percent: 7 },
-    { id: 4, name: 'Покрытие (тканевое)', defect_percent: 8 },
+    { id: 4, name: 'Покрытие (тканевое)', defect_percent: 8 }, 
     { id: 5, name: 'Краска', defect_percent: 2 }
 ];
 
