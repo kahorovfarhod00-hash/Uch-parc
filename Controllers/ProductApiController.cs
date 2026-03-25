@@ -2,8 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using uch_prac.Data;
-using uch_prac.Models;
-
+using uch_prac.Models; 
 namespace uch_prac.Controllers
 {
     [Route("api/products")] 
