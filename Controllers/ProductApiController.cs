@@ -6,7 +6,7 @@ using uch_prac.Models;
 
 namespace uch_prac.Controllers
 {
-    [Route("api/products")]
+    [Route("api/products")] 
     [ApiController]
     public class ProductApiController : ControllerBase
     {
